@@ -1,4 +1,4 @@
-<img style="border-radius: 10px" align="right" height="120p" src="https://github.com/CarelOsagi/CarelOsagi/blob/main/koseki-bijou.gif">
+<img style="border-radius: 50%; border: 4px solid #000; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);" align="right" height="120p" src="https://github.com/CarelOsagi/CarelOsagi/blob/main/koseki-bijou.gif">
 <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=25&duration=3000&pause=1000&color=8343F7&left=true&vLeft=true&random=false&width=435&lines=Hi+there!;I'm+Carel+Habsian+Osagi" alt="Typing SVG" /></a> </h1>
 <p/>
   
