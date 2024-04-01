@@ -5,7 +5,7 @@
 ## 🌠 About Me :
 <div align="left">
   <p>
-- 🏫 1st semester Informatics college student<br>
+- 🏫 Informatics college student<br>
 - 🎓️ I'm currently studying Informatics at Universitas Negeri Padang<br>
 - 🌱️ In the process of learning C languange and web development in HTML5<br>
   </p>
